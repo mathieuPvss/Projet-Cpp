@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\projet c++\Project c++\Project c++\Game.cpp(152,27): warning C4018: '<' : incompatibilité signed/unsigned
+C:\projet c++\Project c++\Project c++\Game.cpp(164,20): warning C4018: '<' : incompatibilité signed/unsigned
+  Main.cpp
+  Génération de code en cours
+  0 of 205 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Project c++.vcxproj -> C:\projet c++\Project c++\Release\Project c++.exe

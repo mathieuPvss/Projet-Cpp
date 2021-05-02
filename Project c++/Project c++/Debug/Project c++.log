@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\projet c++\Project c++\Project c++\Main.cpp(63,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\projet c++\Project c++\Project c++\Main.cpp(68,34): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\projet c++\Project c++\Project c++\Main.cpp(73,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+C:\projet c++\Project c++\Project c++\Main.cpp(77,31): warning C4244: 'argument' : conversion de 'int' en 'float', perte possible de données
+  Project c++.vcxproj -> C:\projet c++\Project c++\Debug\Project c++.exe
